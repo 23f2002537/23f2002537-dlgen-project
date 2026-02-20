@@ -2,3 +2,11 @@
 
 Sahil kumar
 Roll no: 23f2002537
+
+DlgenAi/
+│
+├── notebooks/
+├── scripts/
+├── models/
+├── requirements.txt
+└── README.md
